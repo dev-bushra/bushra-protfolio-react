@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/test-2/static/js/main.c8b7f3f9.chunk.js",
+    "main.js.map": "/test-2/static/js/main.c8b7f3f9.chunk.js.map",
+    "runtime-main.js": "/test-2/static/js/runtime-main.073d652e.js",
+    "runtime-main.js.map": "/test-2/static/js/runtime-main.073d652e.js.map",
+    "static/css/2.679831fc.chunk.css": "/test-2/static/css/2.679831fc.chunk.css",
+    "static/js/2.b44e749f.chunk.js": "/test-2/static/js/2.b44e749f.chunk.js",
+    "static/js/2.b44e749f.chunk.js.map": "/test-2/static/js/2.b44e749f.chunk.js.map",
+    "index.html": "/test-2/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/test-2/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.b44e749f.chunk.js.LICENSE.txt": "/test-2/static/js/2.b44e749f.chunk.js.LICENSE.txt",
+    "static/media/me.a1c1ec98.jpg": "/test-2/static/media/me.a1c1ec98.jpg",
+    "static/media/my-resume.c4f5242e.pdf": "/test-2/static/media/my-resume.c4f5242e.pdf",
+    "static/media/profile-img.a47a869a.png": "/test-2/static/media/profile-img.a47a869a.png",
+    "static/media/spaceman.5ec7fcfa.png": "/test-2/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/test-2/static/media/u-said-it-v13-1167.949cee7e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.073d652e.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.b44e749f.chunk.js",
+    "static/js/main.c8b7f3f9.chunk.js"
+  ]
+}
