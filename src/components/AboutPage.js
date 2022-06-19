@@ -4,7 +4,7 @@ import {DarkTheme} from './Themes';
 import LogoComponent from '../subComponents/LogoComponent';
 import SocialIcons from '../subComponents/SocialIcons';
 import PowerButton from '../subComponents/PowerButton';
-import ParticleComponent from '../subComponents/ParticleComponent';
+// import ParticleComponent from '../subComponents/ParticleComponent';
 import BigTitle from '../subComponents/BigTitlte'
 import astronaut from '../assets/Images/spaceman.png'
 import Me from '../assets/Images/me.jpg'
@@ -90,7 +90,7 @@ const AboutPage = () => {
                 <LogoComponent theme='dark'/>
                 <SocialIcons theme='dark'/>
                 <PowerButton />
-                <ParticleComponent theme='dark' />
+                {/* <ParticleComponent theme='dark' /> */}
                 <Spaceman>
                     <img src={astronaut} alt="spaceman" />
                 </Spaceman>
