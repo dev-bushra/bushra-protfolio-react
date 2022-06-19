@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/dev-bushra/bushra-portfolio/static/js/main.c8b7f3f9.chunk.js",
-    "main.js.map": "/dev-bushra/bushra-portfolio/static/js/main.c8b7f3f9.chunk.js.map",
-    "runtime-main.js": "/dev-bushra/bushra-portfolio/static/js/runtime-main.1a168be8.js",
-    "runtime-main.js.map": "/dev-bushra/bushra-portfolio/static/js/runtime-main.1a168be8.js.map",
-    "static/css/2.679831fc.chunk.css": "/dev-bushra/bushra-portfolio/static/css/2.679831fc.chunk.css",
-    "static/js/2.9054010b.chunk.js": "/dev-bushra/bushra-portfolio/static/js/2.9054010b.chunk.js",
-    "static/js/2.9054010b.chunk.js.map": "/dev-bushra/bushra-portfolio/static/js/2.9054010b.chunk.js.map",
-    "index.html": "/dev-bushra/bushra-portfolio/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/dev-bushra/bushra-portfolio/static/css/2.679831fc.chunk.css.map",
-    "static/js/2.9054010b.chunk.js.LICENSE.txt": "/dev-bushra/bushra-portfolio/static/js/2.9054010b.chunk.js.LICENSE.txt",
-    "static/media/me.a1c1ec98.jpg": "/dev-bushra/bushra-portfolio/static/media/me.a1c1ec98.jpg",
-    "static/media/my-resume.c4f5242e.pdf": "/dev-bushra/bushra-portfolio/static/media/my-resume.c4f5242e.pdf",
-    "static/media/profile-img.a47a869a.png": "/dev-bushra/bushra-portfolio/static/media/profile-img.a47a869a.png",
-    "static/media/spaceman.5ec7fcfa.png": "/dev-bushra/bushra-portfolio/static/media/spaceman.5ec7fcfa.png",
-    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/dev-bushra/bushra-portfolio/static/media/u-said-it-v13-1167.949cee7e.mp3"
+    "main.js": "/bushra-portfolio/static/js/main.c8b7f3f9.chunk.js",
+    "main.js.map": "/bushra-portfolio/static/js/main.c8b7f3f9.chunk.js.map",
+    "runtime-main.js": "/bushra-portfolio/static/js/runtime-main.0a44aa3f.js",
+    "runtime-main.js.map": "/bushra-portfolio/static/js/runtime-main.0a44aa3f.js.map",
+    "static/css/2.679831fc.chunk.css": "/bushra-portfolio/static/css/2.679831fc.chunk.css",
+    "static/js/2.2fcc2cff.chunk.js": "/bushra-portfolio/static/js/2.2fcc2cff.chunk.js",
+    "static/js/2.2fcc2cff.chunk.js.map": "/bushra-portfolio/static/js/2.2fcc2cff.chunk.js.map",
+    "index.html": "/bushra-portfolio/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/bushra-portfolio/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.2fcc2cff.chunk.js.LICENSE.txt": "/bushra-portfolio/static/js/2.2fcc2cff.chunk.js.LICENSE.txt",
+    "static/media/me.a1c1ec98.jpg": "/bushra-portfolio/static/media/me.a1c1ec98.jpg",
+    "static/media/my-resume.c4f5242e.pdf": "/bushra-portfolio/static/media/my-resume.c4f5242e.pdf",
+    "static/media/profile-img.a47a869a.png": "/bushra-portfolio/static/media/profile-img.a47a869a.png",
+    "static/media/spaceman.5ec7fcfa.png": "/bushra-portfolio/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "/bushra-portfolio/static/media/u-said-it-v13-1167.949cee7e.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a168be8.js",
+    "static/js/runtime-main.0a44aa3f.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.9054010b.chunk.js",
+    "static/js/2.2fcc2cff.chunk.js",
     "static/js/main.c8b7f3f9.chunk.js"
   ]
 }
