@@ -16,7 +16,7 @@ function App() {
       <SoundBar />
       <AnimatePresence exitBeforeEnter>
         <Switch  location={location} key={location.pathname}>
-          <Route exact path="/" component={Main}/>
+          <Route exact path="/home" component={Main}/>
           <Route exact path="/about" component={AboutPage}/>
           <Route exact path="/work" component={WorkPage}/>
         </Switch>
